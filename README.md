@@ -14,20 +14,7 @@ Excel is a powerful tool for data analysis because of its ability to:
 
 ## Data Overview
 
-The dataset contains the following columns:
-- **Row ID**
-- **Marital Status**
-- **Gender**
-- **Income**
-- **Children**
-- **Education**
-- **Occupation**
-- **Home Owner**
-- **Cars**
-- **Commute Distance**
-- **Region**
-- **Age**
-- **Purchased Bike** (Yes/No)
+The dataset contains the following columns: **Row ID**, **Marital Status**, **Gender**, **Income**, **Children**, **Education**, **Occupation**, **Home Owner**, **Cars**, **Commute Distance**, **Region**, **Age**, **Purchased Bike** (Yes/No)
 
 The dataset includes **13,350 rows**, providing insights into customer demographics and their purchasing behavior.
 
@@ -57,7 +44,6 @@ The dataset includes **13,350 rows**, providing insights into customer demograph
    - A **screenshot of the dashboard** is provided below for reference:
 
    ![Dashboard Screenshot](https://github.com/user-attachments/assets/4afd7adb-3ad8-42e5-b915-ed3ce6607478)
-   <img src="[path_to_screenshot.png](https://github.com/user-attachments/assets/4afd7adb-3ad8-42e5-b915-ed3ce6607478)" width="600"/>
 
 
 ## Conclusion
