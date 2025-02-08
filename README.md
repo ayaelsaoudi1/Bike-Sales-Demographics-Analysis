@@ -57,6 +57,7 @@ The dataset includes **13,350 rows**, providing insights into customer demograph
    - A **screenshot of the dashboard** is provided below for reference:
 
    ![Dashboard Screenshot](https://github.com/user-attachments/assets/4afd7adb-3ad8-42e5-b915-ed3ce6607478)
+   <img src="[path_to_screenshot.png](https://github.com/user-attachments/assets/4afd7adb-3ad8-42e5-b915-ed3ce6607478)" width="600"/>
 
 
 ## Conclusion
